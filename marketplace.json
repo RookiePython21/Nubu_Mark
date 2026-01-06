@@ -6,7 +6,7 @@
     },
     "plugins": [
       {
-        "name": "gerald's plugin",
+        "name": "gerald's-plugin",
         "source": {
           "source": "github",
           "repo": "RookiePython21/Nubu-Plugin"
