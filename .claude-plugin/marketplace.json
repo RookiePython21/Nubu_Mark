@@ -9,7 +9,7 @@
         "name": "gerald's-plugin",
         "source": {
           "source": "github",
-          "repo": "RookiePython21/Nubu-Plugin"
+          "repo": "RookiePython21/Nubu_Plugin"
         },
         "description": "confirming i know what i'm doing",
         "version": "1.0.0",
