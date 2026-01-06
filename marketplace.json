@@ -1,0 +1,21 @@
+{
+    "name": "Nubu-Mark",
+    "owner": {
+      "name": "gerald adkins",
+      "email": "devtools@example.com"
+    },
+    "plugins": [
+      {
+        "name": "gerald's plugin",
+        "source": {
+          "source": "github",
+          "repo": "RookiePython21/Nubu-Plugin"
+        },
+        "description": "confirming i know what i'm doing",
+        "version": "1.0.0",
+        "author": {
+          "name": "Nubulync"
+        }
+      }
+    ]
+  }
